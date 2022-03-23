@@ -18,7 +18,7 @@ This is first time open source experience and I am grateful to CERN to provide w
 
 ## Screenshots
 ### Widget
-[Widget Image ](https://drive.google.com/uc?export=view&id=1uDecZUUsAbp4Jq3Im3Twemou3B8ET7s0) )
+[Widget Image ](https://drive.google.com/uc?export=view&id=1uDecZUUsAbp4Jq3Im3Twemou3B8ET7s0) 
 
 ### Workflow
 [Workflow Image ](https://drive.google.com/uc?export=view&id=1Ghc7zPijpYIf6JcURax8tRXLQZc8sTC-) 
