@@ -11405,12 +11405,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup-plugin-gzip@npm:^2.5.0":
-  version: 2.5.0
-  resolution: "rollup-plugin-gzip@npm:2.5.0"
+"rollup-plugin-gzip@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "rollup-plugin-gzip@npm:3.1.0"
   peerDependencies:
-    rollup: ">=0.60.0"
-  checksum: 158a5a7149744da02f87581d7ff6c2d96812b922c943b2e58ba8e5988035c26aeec9677d2d6458c4e94d06f57fb296f90d753fb9f7ca8f01ed0fea593cefac3b
+    rollup: ">=2.0.0"
+  checksum: b6e9671639f50bd4fda586603d784597abe19925ceda81fd4d3aa44f538b3be45f4d4b29ea1e251c20b2f2c3c16f498e762fac266114751f827b324acfca8b4f
   languageName: node
   linkType: hard
 
@@ -11679,7 +11679,7 @@ __metadata:
     rollup-plugin-babel: ^4.4.0
     rollup-plugin-copy-watch: ^0.0.1
     rollup-plugin-delete: ^2.0.0
-    rollup-plugin-gzip: ^2.5.0
+    rollup-plugin-gzip: ^3.1.0
     rollup-plugin-livereload: ^2.0.5
     rollup-plugin-modify: ^3.0.0
     rollup-plugin-node-resolve: ^5.2.0
