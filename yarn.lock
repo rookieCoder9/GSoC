@@ -10017,14 +10017,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"playwright@npm:^1.19.2":
-  version: 1.19.2
-  resolution: "playwright@npm:1.19.2"
-  dependencies:
-    playwright-core: 1.19.2
+"playwright-core@npm:1.29.1":
+  version: 1.29.1
+  resolution: "playwright-core@npm:1.29.1"
   bin:
     playwright: cli.js
-  checksum: b75dd5f732162c63a1252966c5252cd1ccbc08649fabde020228fb88ccd060d7202c3f58bb898a0106b7daf1f7c6c16ce76e6424af1c36fbc9ed46957708b422
+  checksum: e1c8423db4d28f44e5365a353f321b04a07709c8bf26d0c908f06d2c2669f715315170f84ca98a532951c2ac6324f5f48f651dca1abe43092c7637bdb4703303
+  languageName: node
+  linkType: hard
+
+"playwright@npm:^1.29.1":
+  version: 1.29.1
+  resolution: "playwright@npm:1.29.1"
+  dependencies:
+    playwright-core: 1.29.1
+  bin:
+    playwright: cli.js
+  checksum: ef20f71b20420d9e0eaf45ac5f936422dc6961a863eb71192abe911d3f951722b3c464a36ea04cac8484368c876b5513db04171375f970831fb2bccb9fbb1b7b
   languageName: node
   linkType: hard
 
@@ -11669,7 +11678,7 @@ __metadata:
     node-fetch: ^2.6.7
     pino: ^7.6.3
     pino-pretty: ^7.3.0
-    playwright: ^1.19.2
+    playwright: ^1.29.1
     postcss: ^8.3.6
     prettier: ^2.3.2
     react: ^17.0.2
